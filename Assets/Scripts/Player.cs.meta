@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 758b7624252bdc943a65a5879b87adf2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Laser: {fileID: 8032519479722815192, guid: efe1ace096d3d1541bd56b1d6a251ca4, type: 3}
+  - disparoDuplo: {fileID: 6796906761255857715, guid: 0f75e3de7d8adc24c8da03a361723860, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
